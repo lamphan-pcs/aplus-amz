@@ -1,0 +1,14 @@
+{
+    "name": "aplus-scraper",
+    "version": "1.0.0",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "aplus-scraper": "file:",
+        "dotenv": "^16.0.0",
+        "express": "^5.0.0",
+        "pg": "^8.0.0"
+    }
+}
